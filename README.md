@@ -151,8 +151,28 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SYSTEM FOOTER — CYBERPUNK 3D v3.0                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- SYSTEM FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=100&section=footer" alt="footer wave" width="100%" />
-</p>
+<div align="center">
+  
+  <!-- 3D Animated Grid Background -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0f1d&height=220&section=footer&text=&fontSize=1" width="100%" alt="base" />
+  
+  <!-- Floating 3D Text Layer -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=SYSTEM%20OFFLINE;NEURAL%20LINK%20TERMINATED;AWAITING%20NEXT%20SESSION" alt="3D Typing Footer" />
+  </p>
+  
+  <!-- Animated Laser Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=3&section=footer" width="80%" alt="laser" />
+  
+  <br>
+  
+  <!-- Glitch Status Badge -->
+  <img src="https://img.shields.io/badge/STATUS-OFFLINE-0a0f1d?style=for-the-badge&logo=powerbi&logoColor=00f2fe&labelColor=0e75b6" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-0a0f1d?style=for-the-badge&logo=clockify&logoColor=00f2fe&labelColor=0e75b6" alt="Uptime" />
+
+</div>
