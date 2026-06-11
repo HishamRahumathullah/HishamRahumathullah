@@ -1,6 +1,6 @@
 <!-- SYSTEM HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=200&section=header&text=AHAMED%20HISHAM&fontSize=45&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20DATA%20PIPELINE%20ARCHITECT&descAlignY=60&descSize=15&descColor=a5b4fc" alt="Futuristic Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1d,50:0e75b6,100:00f2fe&height=250&section=header&text=AHAMED%20HISHAM&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20DATA%20PIPELINE%20ARCHITECT&descAlignY=65&descSize=16&descColor=a5b4fc&stroke=00f2fe&strokeWidth=2" alt="Neural Interface Header" width="100%" />
 </div>
 
 <p align="center">
