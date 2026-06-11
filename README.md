@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/HishamRahumathullah" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=CORE%3A+AI+%26+DATA+PIPELINE+ENGINEER;BUILDING+PRODUCTION+LLM+APPS;ARCHITECTING+ADVANCED+RAG+SYSTEMS;AUTOMATING+MLOPS+%26+AGENTIC+ECOSYSTEMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=CORE%3A+AI+%26+DATA+PIPELINE+ENGINEER;BUILDING+PRODUCTION+LLM+APPS;ARCHITECTING+ADVANCED+RAG+SYSTEMS; AUTOMATING+MLOPS+%26+AGENTIC+ECOSYSTEMS" alt="Typing SVG" />
   </a>
 </p>
 
