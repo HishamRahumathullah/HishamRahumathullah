@@ -1,64 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ahamed%20Hisham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Pipeline%20Architect&descAlignY=55&descSize=20" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=200&section=header&text=AHAMED%20HISHAM&fontSize=45&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20DATA%20PIPELINE%20ARCHITECT&descAlignY=60&descSize=15&descColor=a5b4fc" alt="Futuristic Header" width="100%" />
 </div>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" alt="wave" />, I'm Ahamed Hisham</h1>
 
 <p align="center">
   <a href="https://github.com/HishamRahumathullah">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Pipeline+Engineer;Building+production-grade+LLM+apps;Architecting+RAG+Systems;Passionate+about+MLOps+%26+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=CORE%3A+AI+%26+DATA+PIPELINE+ENGINEER;BUILDING+PRODUCTION+LLM+APPS;ARCHITECTING+ADVANCED+RAG+SYSTEMS;AUTOMATING+MLOPS+%26+AGENTIC+ECOSYSTEMS" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HishamRahumathullah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HishamRahumathullah&label=SYSTEM%20ACCESSES&color=0e75b6&style=flat-square" alt="profile views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/HishamRahumathullah?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/followers/HishamRahumathullah?label=NETWORK%20NODES&style=flat-square&color=0e75b6" alt="followers" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
 </p>
 
-### 🧑‍💻 About Me
-> I am an **AI Engineer and Data Pipeline Engineer** specializing in building scalable, production-grade LLM applications and automated data ecosystems. I am an expert in orchestrating complex data pipelines, designing Retrieval-Augmented Generation (RAG) architectures, and implementing automated evaluation frameworks to ensure high-performance, faithful AI outputs.
+### 💻 SYSTEM OVERVIEW // ABOUT ME
+> `STATUS: ACTIVE`
+> 
+> I am an **AI Engineer and Data Pipeline Engineer** specializing in constructing hyper-scalable, production-grade LLM applications and automated data lifecycles. My core architecture focuses on orchestrating distributed data processing pipelines, engineering enterprise Retrieval-Augmented Generation (RAG) meshes, and deploying programmatic evaluation telemetry to eliminate AI hallucinations and ensure maximum output fidelity.
 
-<br>
+---
+
+### 🌐 DEPLOYED NEURAL NETWORKS (PORTFOLIO & RESUME)
+<div align="center">
+  <p>
+    <a href="YOUR_PORTFOLIO_LINK_HERE">
+      <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="YOUR_RESUME_LINK_HERE">
+      <img src="https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 🛠️ CURRENT SECTOR OPERATIONS
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3>🔭 I’m currently working on</h3>
+        <h3>🔭 Active Internal Operations</h3>
         <table>
           <tr>
-            <th>Project</th>
-            <th>Description</th>
+            <th>Core Module</th>
+            <th>Operational Directives</th>
           </tr>
           <tr>
-            <td><b><a href="https://github.com/HishamRahumathullah/chatAI">chatAI</a></b></td>
-            <td>Production-ready RAG system with automated benchmarking <i>(LangChain, RAGAS, FastAPI)</i></td>
+            <td><b><a href="https://github.com/HishamRahumathullah/RAG_System">RAG_System</a></b></td>
+            <td>Production RAG engine with multi-agent validation loops. <i>(LangChain, RAGAS, FastAPI)</i></td>
           </tr>
           <tr>
             <td><b><a href="#">AI_Chatbot</a></b></td>
-            <td>Conversational AI with context-aware responses <i>(OpenAI, HuggingFace)</i></td>
+            <td>Contextual intelligence processing layer with deterministic fallbacks. <i>(OpenAI, HuggingFace)</i></td>
           </tr>
         </table>
       </td>
       <td width="50%" valign="top">
-        <h3>👯 I’m looking to collaborate on</h3>
+        <h3>👯 Open-Source Grid Matrix</h3>
         <table>
           <tr>
-            <th>Project</th>
-            <th>Description</th>
+            <th>Module Link</th>
+            <th>Protocol Parameters</th>
           </tr>
           <tr>
             <td><b><a href="#">yaloo</a></b></td>
-            <td>AI-powered project open for contributors! <i>(TypeScript, Node.js)</i></td>
-            </tr>
+            <td>Distributed, AI-augmented runtime pipeline. Open for active developer syncing. <i>(TS, Node)</i></td>
+          </tr>
           <tr>
             <td><b><a href="#">Edge_Detector</a></b></td>
-            <td>Computer vision edge detection algorithms <i>(OpenCV, NumPy)</i></td>
+            <td>Computer vision arrays running optimized linear edge derivation algorithms. <i>(OpenCV, NumPy)</i></td>
           </tr>
         </table>
       </td>
@@ -66,15 +83,13 @@
   </table>
 </div>
 
-### 🤝 I’m looking for help with
-| 🚀 Project | 🎯 What I need help with | 🛠️ Tech Stack |
+### 🤝 COLLABORATION REQUIRED REQUESTS
+| 🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
 | :--- | :--- | :--- |
-| **[Medical_chatbot](#)** | Optimizing retrieval accuracy & fine-tuning medical domain embeddings | Python, LangChain, Pinecone, BioBERT |
-| **[Test_Files](#)** | Testing suites & benchmarking frameworks for LLM evaluation | Python, RAGAS, pytest |
+| **[Medical_chatbot](#)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | Python, LangChain, Pinecone, BioBERT |
+---
 
-<br>
-
-### 🌱 I’m currently learning
+### 🌱 ASSIMILATING KNOWLEDGE BASES
 <p align="left">
   <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white" alt="MLOps" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -84,79 +99,48 @@
   <img src="https://img.shields.io/badge/AutoGPT-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AutoGPT" />
 </p>
 
-### 💬 Ask me about
-- 🧠 **AI & LLMs:** RAG architectures, LLM evaluation (RAGAS, BERTScore), Production AI deployment
-- ⚙️ **Frameworks:** LangChain, LlamaIndex, FastAPI backends
-- 📊 **Data Engineering:** Airflow & dbt pipelines, Python data engineering, Vector databases
+---
 
-### 📫 How to reach me & Links
+### 🔬 CORE TECH STACK MATRIX
+
+| Category | Protocol Modules & Framework Array |
+| :--- | :--- |
+| **AI / Cognitive Compute** | `Python` `PyTorch` `LangChain` `LlamaIndex` `Hugging Face` `OpenAI` `Anthropic` `RAGAS` `BERTScore` |
+| **Data Lake & Engines** | `Pinecone` `ChromaDB` `Weaviate` `Apache Airflow` `dbt` `Apache Spark` `Kafka` `PostgreSQL` `Snowflake` `BigQuery` |
+| **Infrastructure / MLOps**| `FastAPI` `Docker` `Kubernetes` `MLflow` `Git` `Jupyter` `Pydantic` |
+
+---
+
+### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
 <p align="left">
-  <a href="mailto:almrahumathhisham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ahamed-hisham"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+94766905719"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-  <a href="https://github.com/HishamRahumathullah?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:almrahumathhisham@gmail.com"><img src="https://img.shields.io/badge/TERMINAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ahamed-hisham"><img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="tel:+94766905719"><img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/HishamRahumathullah?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
 </p>
 
-### 👨‍💻 Featured Repositories
-| 📦 Repository | 🔤 Language | 💡 Description |
+---
+
+### 👨‍💻 CORE FEATURED REPOSITORIES
+| 📦 Node Registry | 🔤 Base Logic | 💡 Manifest Description |
 | :--- | :--- | :--- |
-| **[chatAI](https://github.com/HishamRahumathullah/chatAI)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | RAG system with automated benchmarking |
-| **[AI_Chatbot](#)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Conversational AI chatbot |
-| **[Medical_chatbot](#)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Medical domain chatbot |
-| **[Edge_Detector](#)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Computer vision edge detection |
-| **[yaloo](#)** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | AI-powered TypeScript project |
-| **[Test_Files](#)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Testing & benchmarking utilities |
+| **[RAG_System](https://github.com/HishamRahumathullah/RAG_System)** | `Python` | Production-ready RAG architecture with automated benchmarking engines. |
+| **[Flowbase_Productivity-_AI](https://github.com/HishamRahumathullah/Flowbase_Productivity-_AI)** | `Python` | Autonomous AI workflow architectures and productivity toolkits. |
+| **[AI_Chatbot](#)** | `Python` | State-tracked context-aware conversation core. |
+| **[Medical_chatbot](#)** | `Python` | Fine-tuned clinical language optimization chatbot. |
+| **[Edge_Detector](#)** | `Python` | Real-time matrix manipulation computer vision calculations. |
+| **[yaloo](#)** | `TypeScript` | Event-driven architecture engineered on an asynchronous TypeScript canvas. |
+| **[Test_Files](#)** | `Python` | Automated telemetry evaluation loops and benchmarking parameters. |
 
+---
+
+### 📊 TELEMETRY METRICS & ANALYTICS
+
+#### 🪐 REPOSITORY MATRIX GRAPH
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HishamRahumathullah&theme=tokyo-night&hide_border=true&bg_color=0a0f1d&color=00f2fe" alt="Activity Graph" width="100%" />
 </p>
-
-### 🛠️ Tech Stack & Tools
-
-**🧠 AI, LLMs & Machine Learning**<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=python&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=flat-square&logo=python&logoColor=white" alt="RAGAS" />
-  <img src="https://img.shields.io/badge/BERTScore-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="BERTScore" />
-</p>
-
-**🗄️ Vector Databases & Data Engineering**<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Chroma_DB-FF6A00?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Weaviate-FF9900?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
-</p>
-
-**🚀 MLOps, Backend & Deployment**<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
-</p>
-
-### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HishamRahumathullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -164,27 +148,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HishamRahumathullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HishamRahumathullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HishamRahumathullah&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
-</p>
-
-### 🏆 GitHub Trophies
+#### 💎 SYSTEM EARNED TROPHIES
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HishamRahumathullah&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
-</p>
+---
 
-> **⚡ Fun Fact:** I earned a full-ride **Allama Iqbal Scholarship** to study in Pakistan as a top-performing Sri Lankan student — now building AI systems that bridge research and real-world impact! 🚀
+### ⚡ CHRONICLED ANOMALY (FUN FACT)
+> **🎓 OVERRIDE PROTOCOL:** I earned a full-ride **Allama Iqbal Scholarship** to study in Pakistan as a top-performing Sri Lankan student — now designing advanced AI systems that translate theoretical machine learning into high-impact digital realities! 🚀
 
 <br>
 
@@ -193,9 +168,5 @@
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! ⭐ Star my repos if you find them useful!</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=100&section=footer" alt="footer wave" width="100%" />
 </p>
