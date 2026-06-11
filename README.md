@@ -85,9 +85,9 @@
 </div>
 
 ### 🤝 COLLABORATION REQUIRED REQUESTS
- 🚀 Objective Target  🎯 Engineering Blockers  🛠️ Architecture Stack 
+ |🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
 
- **[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)**  Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers  Python, LangChain, Pinecone, BioBERT 
+ |**[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | Python, LangChain, Pinecone, BioBERT |
 ---
 
 ### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
