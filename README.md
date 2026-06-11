@@ -29,7 +29,7 @@
 ### 🌐 DEPLOYED NEURAL NETWORKS (PORTFOLIO & RESUME)
 <div align="center">
   <p>
-    <a href="[YOUR_PORTFOLIO_LINK_HERE](https://hishamrahumathullah.github.io/Portfolio/)" target="_blank">
+    <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,8 +97,8 @@
   <a href="mailto:almrahumathhisham@gmail.com"><img src="https://img.shields.io/badge/TERMINAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/ahamed-hisham"><img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="tel:+94766905719"><img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true"><img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
+  <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank"><img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/HishamRahumathullah?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
 </p>
 
