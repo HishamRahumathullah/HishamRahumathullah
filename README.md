@@ -85,11 +85,14 @@
 </div>
 
 ### 🤝 COLLABORATION REQUIRED REQUESTS
- |🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
 
- |**[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | Python, LangChain, Pinecone, BioBERT |
----
+<div align="center">
 
+| 🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
+|:---:|:---|:---|
+| **[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=00F2FE"/> |
+
+</div>
 ### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
 <p align="left">
   <a href="mailto:almrahumathhisham@gmail.com" target="_blank" rel="noopener noreferrer">
