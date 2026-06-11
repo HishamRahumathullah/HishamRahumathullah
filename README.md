@@ -29,11 +29,11 @@
 ### 🌐 DEPLOYED NEURAL NETWORKS (PORTFOLIO & RESUME)
 <div align="center">
   <p>
-    <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <a href="[YOUR_PORTFOLIO_LINK_HERE](https://hishamrahumathullah.github.io/Portfolio/)" target="_blank">
       <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="blank">
+    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank">
       <img src="https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
     </a>
   </p>
