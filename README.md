@@ -58,7 +58,7 @@
             <td>Production RAG engine with multi-agent validation loops. <i>(LangChain, RAGAS, FastAPI)</i></td>
           </tr>
           <tr>
-            <td><b><a href="#" target="_blank" rel="noopener noreferrer">AI_Chatbot</a></b></td>
+            <td><b><a href="https://github.com/HishamRahumathullah/AI_Chatbot" target="_blank" rel="noopener noreferrer">AI_Chatbot</a></b></td>
             <td>Contextual intelligence processing layer with deterministic fallbacks. <i>(OpenAI, HuggingFace)</i></td>
           </tr>
         </table>
@@ -71,11 +71,11 @@
             <th>Protocol Parameters</th>
           </tr>
           <tr>
-            <td><b><a href="#" target="_blank" rel="noopener noreferrer">yaloo</a></b></td>
+            <td><b><a href="https://github.com/HishamRahumathullah/yaloo" target="_blank" rel="noopener noreferrer">yaloo</a></b></td>
             <td>Distributed, AI-augmented runtime pipeline. Open for active developer syncing. <i>(TS, Node)</i></td>
           </tr>
           <tr>
-            <td><b><a href="#" target="_blank" rel="noopener noreferrer">Edge_Detector</a></b></td>
+            <td><b><a href="https://github.com/HishamRahumathullah/Edge_Detector" target="_blank" rel="noopener noreferrer">Edge_Detector</a></b></td>
             <td>Computer vision arrays running optimized linear edge derivation algorithms. <i>(OpenCV, NumPy)</i></td>
           </tr>
         </table>
@@ -85,11 +85,9 @@
 </div>
 
 ### 🤝 COLLABORATION REQUIRED REQUESTS
-| 🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
-| :--- | :--- | :--- |
-| **[Medical_chatbot](#)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | Python, LangChain, Pinecone, BioBERT |
-| **[Test_Files](#)** | Implementing synthetic dataset loops and assertion suites for autonomous LLM evaluation | Python, RAGAS, pytest |
+ 🚀 Objective Target  🎯 Engineering Blockers  🛠️ Architecture Stack 
 
+ **[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)**  Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers  Python, LangChain, Pinecone, BioBERT 
 ---
 
 ### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
@@ -121,11 +119,11 @@
 | :--- | :--- | :--- |
 | **[RAG_System](https://github.com/HishamRahumathullah/RAG_System)** | `Python` | Production-ready RAG architecture with automated benchmarking engines. |
 | **[Flowbase_Productivity-_AI](https://github.com/HishamRahumathullah/Flowbase_Productivity-_AI)** | `Python` | Autonomous AI workflow architectures and productivity toolkits. |
-| **[AI_Chatbot](#)** | `Python` | State-tracked context-aware conversation core. |
-| **[Medical_chatbot](#)** | `Python` | Fine-tuned clinical language optimization chatbot. |
-| **[Edge_Detector](#)** | `Python` | Real-time matrix manipulation computer vision calculations. |
-| **[yaloo](#)** | `TypeScript` | Event-driven architecture engineered on an asynchronous TypeScript canvas. |
-| **[Test_Files](#)** | `Python` | Automated telemetry evaluation loops and benchmarking parameters. |
+| **[AI_Chatbot](https://github.com/HishamRahumathullah/AI_Chatbot)** | `Python` | State-tracked context-aware conversation core. |
+| **[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)** | `Python` | Fine-tuned clinical language optimization chatbot. |
+| **[Edge_Detector](https://github.com/HishamRahumathullah/Edge_Detector)** | `Python` | Real-time matrix manipulation computer vision calculations. |
+| **[yaloo](https://github.com/HishamRahumathullah/yaloo)** | `TypeScript` | Event-driven architecture engineered on an asynchronous TypeScript canvas. |
+| **[Test_Files](https://github.com/HishamRahumathullah/Test_Files)** | `Python` | Automated telemetry evaluation loops and benchmarking parameters. |
 
 ---
 
