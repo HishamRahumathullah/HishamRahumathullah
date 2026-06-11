@@ -1,3 +1,4 @@
+<!-- SYSTEM HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=200&section=header&text=AHAMED%20HISHAM&fontSize=45&fontColor=00f2fe&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20DATA%20PIPELINE%20ARCHITECT&descAlignY=60&descSize=15&descColor=a5b4fc" alt="Futuristic Header" width="100%" />
 </div>
@@ -32,7 +33,7 @@
       <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="YOUR_RESUME_LINK_HERE">
+    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="blank">
       <img src="https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
     </a>
   </p>
@@ -87,27 +88,7 @@
 | 🚀 Objective Target | 🎯 Engineering Blockers | 🛠️ Architecture Stack |
 | :--- | :--- | :--- |
 | **[Medical_chatbot](#)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | Python, LangChain, Pinecone, BioBERT |
----
-
-### 🌱 ASSIMILATING KNOWLEDGE BASES
-<p align="left">
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Multi--modal_LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-modal LLMs" />
-  <img src="https://img.shields.io/badge/Agentic_AI-00C853?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/AutoGPT-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AutoGPT" />
-</p>
-
----
-
-### 🔬 CORE TECH STACK MATRIX
-
-| Category | Protocol Modules & Framework Array |
-| :--- | :--- |
-| **AI / Cognitive Compute** | `Python` `PyTorch` `LangChain` `LlamaIndex` `Hugging Face` `OpenAI` `Anthropic` `RAGAS` `BERTScore` |
-| **Data Lake & Engines** | `Pinecone` `ChromaDB` `Weaviate` `Apache Airflow` `dbt` `Apache Spark` `Kafka` `PostgreSQL` `Snowflake` `BigQuery` |
-| **Infrastructure / MLOps**| `FastAPI` `Docker` `Kubernetes` `MLflow` `Git` `Jupyter` `Pydantic` |
+| **[Test_Files](#)** | Implementing synthetic dataset loops and assertion suites for autonomous LLM evaluation | Python, RAGAS, pytest |
 
 ---
 
@@ -117,6 +98,7 @@
   <a href="https://linkedin.com/in/ahamed-hisham"><img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="tel:+94766905719"><img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
   <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true"><img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/HishamRahumathullah?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
 </p>
 
@@ -151,22 +133,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HishamRahumathullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
-#### 💎 SYSTEM EARNED TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HishamRahumathullah&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### ⚡ CHRONICLED ANOMALY (FUN FACT)
-> **🎓 OVERRIDE PROTOCOL:** I earned a full-ride **Allama Iqbal Scholarship** to study in Pakistan as a top-performing Sri Lankan student — now designing advanced AI systems that translate theoretical machine learning into high-impact digital realities! 🚀
-
 <br>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
+<!-- SYSTEM FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&background_color=0a0f1d&height=100&section=footer" alt="footer wave" width="100%" />
 </p>
