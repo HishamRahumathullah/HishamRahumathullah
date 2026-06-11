@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="100%" alt="laser divider" />
 </p>
 
 ### 💻 SYSTEM OVERVIEW // ABOUT ME
@@ -30,7 +30,7 @@
 <div align="center">
   <p>
     <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
