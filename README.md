@@ -55,7 +55,7 @@
           <tr>
             <td><b><a href="#">yaloo</a></b></td>
             <td>AI-powered project open for contributors! <i>(TypeScript, Node.js)</i></td>
-          </tr>
+            </tr>
           <tr>
             <td><b><a href="#">Edge_Detector</a></b></td>
             <td>Computer vision edge detection algorithms <i>(OpenCV, NumPy)</i></td>
