@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/HishamRahumathullah">
+  <a href="https://github.com/HishamRahumathullah" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=CORE%3A+AI+%26+DATA+PIPELINE+ENGINEER;BUILDING+PRODUCTION+LLM+APPS;ARCHITECTING+ADVANCED+RAG+SYSTEMS;AUTOMATING+MLOPS+%26+AGENTIC+ECOSYSTEMS" alt="Typing SVG" />
   </a>
 </p>
@@ -29,11 +29,11 @@
 ### 🌐 DEPLOYED NEURAL NETWORKS (PORTFOLIO & RESUME)
 <div align="center">
   <p>
-    <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank">
+    <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=0a0f1d" alt="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank">
+    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
     </a>
   </p>
@@ -54,11 +54,11 @@
             <th>Operational Directives</th>
           </tr>
           <tr>
-            <td><b><a href="https://github.com/HishamRahumathullah/RAG_System">RAG_System</a></b></td>
+            <td><b><a href="https://github.com/HishamRahumathullah/RAG_System" target="_blank" rel="noopener noreferrer">RAG_System</a></b></td>
             <td>Production RAG engine with multi-agent validation loops. <i>(LangChain, RAGAS, FastAPI)</i></td>
           </tr>
           <tr>
-            <td><b><a href="#">AI_Chatbot</a></b></td>
+            <td><b><a href="#" target="_blank" rel="noopener noreferrer">AI_Chatbot</a></b></td>
             <td>Contextual intelligence processing layer with deterministic fallbacks. <i>(OpenAI, HuggingFace)</i></td>
           </tr>
         </table>
@@ -71,11 +71,11 @@
             <th>Protocol Parameters</th>
           </tr>
           <tr>
-            <td><b><a href="#">yaloo</a></b></td>
+            <td><b><a href="#" target="_blank" rel="noopener noreferrer">yaloo</a></b></td>
             <td>Distributed, AI-augmented runtime pipeline. Open for active developer syncing. <i>(TS, Node)</i></td>
           </tr>
           <tr>
-            <td><b><a href="#">Edge_Detector</a></b></td>
+            <td><b><a href="#" target="_blank" rel="noopener noreferrer">Edge_Detector</a></b></td>
             <td>Computer vision arrays running optimized linear edge derivation algorithms. <i>(OpenCV, NumPy)</i></td>
           </tr>
         </table>
@@ -94,12 +94,24 @@
 
 ### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
 <p align="left">
-  <a href="mailto:almrahumathhisham@gmail.com"><img src="https://img.shields.io/badge/TERMINAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ahamed-hisham"><img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+94766905719"><img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-  <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank"><img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
-  <a href="https://github.com/HishamRahumathullah?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" /></a>
+  <a href="mailto:almrahumathhisham@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TERMINAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ahamed-hisham" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/94766905719" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://github.com/HishamRahumathullah?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+  </a>
 </p>
 
 ---
@@ -125,7 +137,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HishamRahumathullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HishamRahamathullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishamRahumathullah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
