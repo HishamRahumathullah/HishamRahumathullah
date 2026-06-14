@@ -10,23 +10,25 @@
 </p>
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/LAUNCH_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6)](https://hishamrahumathullah.github.io/Portfolio/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true)
-
+  <p>
+    <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6" alt="Portfolio" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/ACCESS_RESUME-0a0f1d?style=for-the-badge&logo=read-the-docs&logoColor=00F2FE&labelColor=0e75b6" alt="Resume" />
+    </a>
+  </p>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="100%" alt="laser divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=2&section=header" width="100%" alt="laser divider" />
 </p>
 
 ### 💻 SYSTEM OVERVIEW // ABOUT ME
 > `STATUS: ACTIVE`
 > 
 > I am an **AI Engineer and Data Pipeline Engineer** specializing in constructing hyper-scalable, production-grade LLM applications and automated data lifecycles. My core architecture focuses on orchestrating distributed data processing pipelines, engineering enterprise Retrieval-Augmented Generation (RAG) meshes, and deploying programmatic evaluation telemetry to eliminate AI hallucinations and ensure maximum output fidelity.
-
-
 
 ### 🛠️ CURRENT SECTOR OPERATIONS
 
@@ -80,25 +82,26 @@
 | **[Medical_chatbot](https://github.com/HishamRahumathullah/Medical_chatbot)** | Vector chunk optimization & semantic calibration on domain-specific biomedical embedding layers | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=00F2FE"/> |
 
 </div>
+
 ### 🛰️ TRANSMISSION CHANNELS & CONTACT NETWORK
 <p align="left">
   <a href="mailto:almrahumathhisham@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TERMINAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/TERMINAL_EMAIL-0a0f1d?style=for-the-badge&logo=gmail&logoColor=00F2FE&labelColor=0e75b6" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/ahamed-hisham" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN_ARRAY-0a0f1d?style=for-the-badge&logo=linkedin&logoColor=00F2FE&labelColor=0e75b6" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/94766905719" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SECURE_VOICE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/SECURE_VOICE-0a0f1d?style=for-the-badge&logo=whatsapp&logoColor=00F2FE&labelColor=0e75b6" alt="Phone" />
   </a>
   <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/CYBER_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6" alt="Portfolio" />
   </a>
   <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/RESUME_PDF-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME_PDF-0a0f1d?style=for-the-badge&logo=read-the-docs&logoColor=00F2FE&labelColor=0e75b6" alt="Resume" />
   </a>
   <a href="https://github.com/HishamRahumathullah?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+    <img src="https://img.shields.io/badge/ALL_REPOSITORIES-0a0f1d?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0e75b6" alt="All Repos" />
   </a>
 </p>
 
@@ -138,6 +141,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SYSTEM FOOTER — CYBERPUNK 3D v3.0                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
