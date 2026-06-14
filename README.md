@@ -9,11 +9,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HishamRahumathullah&label=SYSTEM%20ACCESSES&color=0e75b6&style=flat-square" alt="profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/HishamRahumathullah?label=NETWORK%20NODES&style=flat-square&color=0e75b6" alt="followers" />
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/LAUNCH_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6)](https://hishamrahumathullah.github.io/Portfolio/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="100%" alt="laser divider" />
@@ -24,22 +26,7 @@
 > 
 > I am an **AI Engineer and Data Pipeline Engineer** specializing in constructing hyper-scalable, production-grade LLM applications and automated data lifecycles. My core architecture focuses on orchestrating distributed data processing pipelines, engineering enterprise Retrieval-Augmented Generation (RAG) meshes, and deploying programmatic evaluation telemetry to eliminate AI hallucinations and ensure maximum output fidelity.
 
----
 
-### 🌐 DEPLOYED NEURAL NETWORKS (PORTFOLIO & RESUME)
-<div align="center">
-  <p>
-    <a href="https://hishamrahumathullah.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6" alt="Portfolio" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/ACCESS_RESUME-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-    </a>
-  </p>
-</div>
-
----
 
 ### 🛠️ CURRENT SECTOR OPERATIONS
 
