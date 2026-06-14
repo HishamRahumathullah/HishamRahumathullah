@@ -7,7 +7,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1d?style=for-the-badge&logo=googlechrome&logoColor=00F2FE&labelColor=0e75b6)](https://hishamrahumathullah.github.io/Portfolio/)
   [![Resume](https://img.shields.io/badge/Resume-0a0f1d?style=for-the-badge&logo=read-the-docs&logoColor=00F2FE&labelColor=0e75b6)](https://github.com/HishamRahumathullah/Portfolio/blob/main/Hisham%20cv.pdf?raw=true)
   [![Email](https://img.shields.io/badge/Email-0a0f1d?style=for-the-badge&logo=gmail&logoColor=00F2FE&labelColor=0e75b6)](mailto:almrahumathhisham@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1d?style=for-the-badge&logo=linkedin&logoColor=00F2FE&labelColor=0e75b6)][(https://linkedin.com/in/ahamed-hisham](https://www.linkedin.com/in/ahamed-hisham-316375261/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1d?style=for-the-badge&logo=linkedin&logoColor=00F2FE&labelColor=0e75b6)](https://www.linkedin.com/in/ahamed-hisham-316375261/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-0a0f1d?style=for-the-badge&logo=whatsapp&logoColor=00F2FE&labelColor=0e75b6)](https://wa.me/94766905719)
 
 </div>
